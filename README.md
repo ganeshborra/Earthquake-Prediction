@@ -82,3 +82,11 @@ Earthquake trends over decades
 Distribution of magnitudes & depths
 
 Prediction results with ML models
+
+📌 Future Scope
+
+Integration with real-time seismic data APIs
+
+Building a dashboard for earthquake monitoring
+
+Applying deep learning models (LSTMs, RNNs) for time-series earthquake prediction
